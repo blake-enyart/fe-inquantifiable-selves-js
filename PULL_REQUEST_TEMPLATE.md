@@ -1,4 +1,4 @@
-[ ] Check this if the PR has been approved by the team to be a quick patch and the rest of this form will not be filled out
+-[] Check this if the PR has been approved by the team to be a quick patch and the rest of this form will not be filled out
 
 ## What functionality does this accomplish?
 closes #
@@ -12,7 +12,7 @@ closes #
 
 ## Current Test Suite:
 ### Test Coverage Percentage: x%
-[] No Tests have been changed
+-[] No Tests have been changed
 [] Some Tests have been changed
 [] All of the Tests have been changed(Please describe what in the world happened):
 
