@@ -24,7 +24,7 @@ closes #
 - [] I have partially tested my code (please explain why):
 
 ## Helpful Resources:
-* Resource link AND small description of info gathered/learned
+- Resource link AND small description of info gathered/learned
 
 
 
