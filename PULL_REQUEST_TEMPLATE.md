@@ -1,4 +1,4 @@
-- [] Check this if the PR has been approved by the team to be a quick patch and the rest of this form will not be filled out
+[ ] Check this if the PR has been approved by the team to be a quick patch and the rest of this form will not be filled out
 
 ## What functionality does this accomplish?
 closes #
